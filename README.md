@@ -19,4 +19,5 @@ Some of the larger projects I completed (excluding my final project, included ab
 | Name | Year | Description | Key Technologies  |
 |-------|------|-------------|-------------------|
 | [Database Server](https://github.com/fred1778/JavaDB/tree/main) | 2025 | A server capable of parsing and executing queries from a subset of SQL on plain-text database tables | Java, SQL, Maven |
+|[JavaStag](https://github.com/fred1778/JavaStag/tree/main) | 2025 | A text-based adventure game engine that ingests .dot and .xml files to create games | Java, Maven, XML |
 | [AstroCat - a Rogue-like browser game](https://github.com/UoB-COMSM0166/2025-group-28) | 2025 | This game and repo was the deliverable of a software engineering group project, in which I was a developer and project management | JavaScript, p5js, Git |  
