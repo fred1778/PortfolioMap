@@ -6,7 +6,7 @@ I started my software development journey with iOS development in Objective-C as
 
 | Name | Year | Description | Key Technologies  |
 |-------|------|-------------|-------------------|
-| Seascape | 2025-6 | A lightweight archive management tool for building and exploring 'seascape' archives | C++, SQLite3, Shell |
+| [Seascape](https://github.com/fred1778/Seascape) | 2025-6 | A lightweight archive management tool for building and exploring 'seascape' archives | C++, SQLite, Shell |
 | [Ting Ting](https://github.com/fred1778/Ting-Ting) | 2014-15 | My first app, a very simple letter game, published on the App Store in early 2015 | Objective-C, UIKit | 
 | [Art of Weather (original)](https://github.com/fred1778/ArtOfWeather) | 2021 | A weather app that matches the weather conditions to Open Access art from the Metropolitan Musuem of Art's API, published early 2021. The repo is the original version - I rebuilt a new version from the ground-up in 2025 (see below) | Swift, SwiftUI | 
 | [Art of Weather (2025 Reboot)](https://apps.apple.com/us/app/art-of-weather/id1549375625) | 2025 |  I rebuilt 'Art of Weather' from the ground up to create a new version which used a Supabase backend to provide artworks, and enhanced information about artists via Wikidata. It is currently available on the App Store.  | Swift, SwiftUI, Supabase, Python (for image resizing utility) | 
