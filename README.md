@@ -10,6 +10,8 @@ I started my software development journey with iOS development in Objective-C as
 | [Ting Ting](https://github.com/fred1778/Ting-Ting) | 2014-15 | My first app, a very simple letter game, published on the App Store in early 2015 | Objective-C, UIKit | 
 | [Art of Weather (original)](https://github.com/fred1778/ArtOfWeather) | 2021 | A weather app that matches the weather conditions to Open Access art from the Metropolitan Musuem of Art's API, published early 2021. The repo is the original version - I rebuilt a new version from the ground-up in 2025 (see below) | Swift, SwiftUI | 
 | [Art of Weather (2025 Reboot)](https://apps.apple.com/us/app/art-of-weather/id1549375625) | 2025 |  I rebuilt 'Art of Weather' from the ground up to create a new version which used a Supabase backend to provide artworks, and enhanced information about artists via Wikidata. It is currently available on the App Store.  | Swift, SwiftUI, Supabase, Python (for image resizing utility) | 
+| (HN-Find)](https://github.com/fred1778/HN-Find) | 2026 |  Web spider search tool to perform keyword search on links published in top 30 of Hacker Newa.   | Python, BS4 | 
+| (Vejle-Park)](https://github.com/fred1778/vejle-spacer) | 2026 | Car park occupancy visualisation tool for the town of Vejle, Denmark  | Python, JavaScript, HTML, CSS, AWS S3 and AWS Lambda | 
 
 
 
